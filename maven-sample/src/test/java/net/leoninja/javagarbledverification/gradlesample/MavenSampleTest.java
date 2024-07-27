@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.io.FileInputStream;
 import java.nio.charset.Charset;
 
-public class GradleSampleTest {
+public class MavenSampleTest {
     @Test
     public void test() {
         // 以下のコードは https://blog1.mammb.com/entry/2024/03/07/090000 からお借りしました

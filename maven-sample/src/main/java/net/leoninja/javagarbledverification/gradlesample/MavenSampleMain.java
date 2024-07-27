@@ -5,7 +5,7 @@ import com.google.common.io.BaseEncoding;
 import java.io.FileInputStream;
 import java.nio.charset.Charset;
 
-public class GradleSampleMain {
+public class MavenSampleMain {
     public static void main(String[] args) {
         // 以下のコードは https://blog1.mammb.com/entry/2024/03/07/090000 からお借りしました
         System.out.println("Java Runtime version      :" + System.getProperty("java.runtime.version"));
